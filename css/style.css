@@ -683,7 +683,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
 
 @media screen
 and (max-device-width: 1180px)
-and (-webkit-min-device-pixel-ratio: 1) {
+and (-webkit-min-device-pixel-ratio: 2) {
     .top-product{
         width: 435px;
     }
@@ -747,7 +747,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
 
 @media screen
 and (max-device-width: 1085px)
-and (-webkit-min-device-pixel-ratio: 1) {
+and (-webkit-min-device-pixel-ratio: 2) {
     .section-top{
         background: #f3f9ff;
     }
@@ -768,7 +768,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
 
 @media screen
 and (max-device-width: 1023px)
-and (-webkit-min-device-pixel-ratio: 1) {
+and (-webkit-min-device-pixel-ratio: 2) {
     .container{
         padding: 0 20px;
     }
@@ -900,7 +900,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
 
 @media screen
 and (max-device-width: 850px)
-and (-webkit-min-device-pixel-ratio: 1) {
+and (-webkit-min-device-pixel-ratio: 2) {
     .top-description-h1{
         font-size: 40px;
     }
@@ -908,7 +908,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
 
 @media screen
 and (max-device-width: 767px)
-and (-webkit-min-device-pixel-ratio: 1) {
+and (-webkit-min-device-pixel-ratio: 2) {
     .top-header{
         margin: 0 0 20px 0;
     }
@@ -971,7 +971,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
 
 @media screen
 and (max-device-width: 525px)
-and (-webkit-min-device-pixel-ratio: 1) {
+and (-webkit-min-device-pixel-ratio: 2) {
     .top-description-h1{
         font-size: 34px;
     }
@@ -983,7 +983,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
 
 @media screen
 and (max-device-width: 470px)
-and (-webkit-min-device-pixel-ratio: 1) {
+and (-webkit-min-device-pixel-ratio: 2) {
     .top-product-pack{
         width: 310px;
         height: 260px;
